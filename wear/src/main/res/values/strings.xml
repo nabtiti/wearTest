@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> patient safety</string>
+    <string name="hello_round">Hello patient safety !</string>
+    <string name="hello_square">Hello patient safety!</string>
+</resources>
